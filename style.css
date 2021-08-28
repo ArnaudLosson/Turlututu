@@ -25,7 +25,7 @@ nav {
     float: right;
     color: white;
     list-style-type: none;
-    background-image:url(img/login.png);
+    background-image:url(Img/login.png);
     background-repeat: no-repeat;
     padding-left: 20px;
     transform: translate(-20px);
@@ -68,4 +68,114 @@ padding-bottom: 60px;
     color: #bac9d7;
     font-weight: bold;
     font-size: 17px;
+}
+.Section-2 {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 80%;
+    padding-top: 50px;
+    padding-bottom: 65px;
+    color: white;
+}
+.Bruce {
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.Start {
+    background-color: #e99002;
+    border: solid 2px white;
+    color: white;
+    font-size: 30px;
+    padding: 15px;
+    border-radius: 10px;
+}
+.titre-1 {
+    color: white;
+    font-size: 30px;
+    font-weight: normal;
+}
+.Bruce2 {
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 28px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #877B8C;
+
+}
+.Boutons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 60px;
+    padding-bottom: 120px;
+}
+.Bouton {
+    width: 200px;
+    height: 24px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    font-size: 24px;
+    border-radius: 10px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+.Yellow {
+    background-color: #e99002;
+}
+.Blue {
+    background-color: #165882;
+}
+.Partenaires {
+    background-color: #EEEEEE;
+    width: 100%;
+    text-align: center;
+    padding-top: 60px;
+    line-height: 110px;
+    
+}
+.images-partenaires {
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+footer {
+    width: 100%;
+    background-color: black;
+    color: #C2D1D2;
+    height: 64px;
+    margin: 0px;
+    padding: 0px;
+}
+.Foot {
+    margin: 0px;
+    padding: 0px;
+}
+.footgauche {
+    float: left;
+    list-style-type: none;
+    margin-top: 10px;
+    padding-left: 12px;
+}
+.footdroite {
+    float: right;
+    list-style-type: none;
+    margin-top: 10px;
+    padding-right: 45px;
+}
+.Discussionicone2 {
+    position: fixed;
+    right: 1em;
+    bottom: 1em;
 }
