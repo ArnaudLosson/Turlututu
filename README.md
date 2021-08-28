@@ -2,4 +2,4 @@
 
 ### First exercice
 
-#### recreate a page
+#### recreate a page from a picture
